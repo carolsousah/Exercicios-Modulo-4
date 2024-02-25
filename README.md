@@ -4,7 +4,7 @@ Exercícios do Módulo 4 - Funções em Kotlin
 Curso EBAC: Desenvolvedor Android Kotlin
 
 ## Tecnologia utilizada:
-Kotlin
+- Kotlin
 
 ## Conteúdos abordados:
 No módulo 4 foram abordados os seguintes temas:
